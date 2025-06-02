@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrayFundamentals/arrayFundamentals.iml" filepath="$PROJECT_DIR$/arrayFundamentals/arrayFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa essentails.iml" filepath="$PROJECT_DIR$/dsa essentails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings essentials/strings essentials.iml" filepath="$PROJECT_DIR$/strings essentials/strings essentials.iml" />
+    </modules>
+  </component>
+</project>
