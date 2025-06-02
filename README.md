@@ -1,4 +1,4 @@
-Got it! Here's an enhanced README with **visual components** like code blocks, badges, and emoji to make it more engaging and easier to skim:
+
 markdown
 # 🚀 Java Fundamentals Practice
 
@@ -116,7 +116,7 @@ Feel free to:
 
 ## ✨ About Me
 
-Hi, I’m **Nyx** — a passionate coder on a journey to master Java and beyond.
+Hi, I’m **payal** — a passionate coder on a journey to master Java and beyond.
 Follow along as I learn and build cool projects!
 
 ---
