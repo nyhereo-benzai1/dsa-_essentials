@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrayFundamentals/array questions/array questions.iml" filepath="$PROJECT_DIR$/arrayFundamentals/array questions/array questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayFundamentals/arrayFundamentals.iml" filepath="$PROJECT_DIR$/arrayFundamentals/arrayFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit manipulation/bit manipulation.iml" filepath="$PROJECT_DIR$/bit manipulation/bit manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compariosn based sorting/compariosn based sorting.iml" filepath="$PROJECT_DIR$/compariosn based sorting/compariosn based sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsa essentails.iml" filepath="$PROJECT_DIR$/dsa essentails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching/searching.iml" filepath="$PROJECT_DIR$/searching/searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/strings essentials/strings essentials.iml" filepath="$PROJECT_DIR$/strings essentials/strings essentials.iml" />
     </modules>
   </component>
