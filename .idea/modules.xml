@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bit manipulation/advance maths/advance maths.iml" filepath="$PROJECT_DIR$/bit manipulation/advance maths/advance maths.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayFundamentals/array questions/array questions.iml" filepath="$PROJECT_DIR$/arrayFundamentals/array questions/array questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayFundamentals/arrayFundamentals.iml" filepath="$PROJECT_DIR$/arrayFundamentals/arrayFundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/bit manipulation/bit manipulation.iml" filepath="$PROJECT_DIR$/bit manipulation/bit manipulation.iml" />
